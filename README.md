@@ -11,3 +11,6 @@ Pandas
 Scikit-Learn
 
 Matplotlib/Seaborn (para visualização de dados)
+
+##
+link para a base de dados e outros detalhes: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
