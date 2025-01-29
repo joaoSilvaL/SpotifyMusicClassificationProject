@@ -1,6 +1,6 @@
 # Classificação de Músicas: Agitadas ou Lentas
 
-Este projeto tem como objetivo classificar músicas em "agitadas" ou "lentas" com base em um dataset de faixas do Spotify. Utilizamos métodos de aprendizado de máquina para analisar características das músicas e determinar sua classificação.
+Este projeto tem como objetivo classificar músicas em "agitadas" ou "lentas" com base em um dataset de faixas do Spotify. Foram utilizados métodos de aprendizado de máquina para analisar características das músicas e determinar sua classificação.
 
 ## Tecnologias Utilizadas:
 
